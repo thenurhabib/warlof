@@ -1,0 +1,19 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: Md. Nur habib
+    family-names: Habib
+    email: thenurhabib@gmail.com
+    affiliation: The Hacker's Choice
+title: "warlof"
+version: 1.0.0
+type: CLI software
+url: "https://github.com/thenurhabib/warlof"
+keywords:
+  - ddos
+  - dos
+  - hacking
+  - pentesting
+  - securiy
+  - attack
+license: The GNU General Public License v3.0
